@@ -307,6 +307,9 @@ footer{
     height: 300px;
     margin-left: 10px;
     }
+    .content{
+        transform: translateY(60px);
+    }
     footer{
         font-size: 13px;
     }
