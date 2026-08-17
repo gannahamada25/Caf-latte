@@ -322,7 +322,7 @@ footer{
 }
 @media (max-width:400px) {
     .content{
-        transform: translateY(-20px);
+        transform: translateY(-10px);
     }
 }
 }
