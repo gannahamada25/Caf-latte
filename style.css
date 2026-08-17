@@ -217,6 +217,9 @@ footer{
     font-weight: 500;
     margin: 0 5px;
     }
+    .content{
+        transform: translateY(100px);
+    }
     .content .text h2{
     font-size: 25px;
     }
