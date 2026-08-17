@@ -320,6 +320,11 @@ footer{
         font-size: 13px;
     }
 }
+@media (max-width:400px) {
+    .content{
+        transform: translateY(-20px);
+    }
+}
 .all{
     width: 90%;
     display: flex;
